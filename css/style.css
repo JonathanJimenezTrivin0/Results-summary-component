@@ -251,6 +251,7 @@ body {
   }
 
   .card__tittle {
+    padding-top: 10px;
     font-size: 22px;
     font-weight: 700;
   }
