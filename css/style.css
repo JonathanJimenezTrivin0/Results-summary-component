@@ -168,11 +168,13 @@ body {
 }
 
 .card__percentage {
+  font-size: 16px;
+  letter-spacing: 2px;
   display: flex;
   align-items: center;
-  font-size: 13px;
 }
 .card__value {
+  font-size: 15px;
   color: var(--Dark-gray-blue-alfa);
 }
 
