@@ -164,6 +164,8 @@ body {
   align-items: center;
 }
 .card__botton__text {
+  font-weight: 500;
+  font-size: 16px;
   color: var(--Light-red);
 }
 
@@ -174,23 +176,27 @@ body {
   align-items: center;
 }
 .card__value {
-  font-size: 15px;
+  font-weight: 500;
+  font-size: 16px;
   color: var(--Dark-gray-blue-alfa);
 }
 
 .buton__memory {
+  font-weight: 500;
+  font-size: 16px;
   color: var(--Orangey-yellow);
-  font-weight: 600;
 }
 
 .button__verbal {
+  font-weight: 500;
+  font-size: 16px;
   color: var(--Green-teal);
-  font-weight: 600;
 }
 
 .botton__visual {
+  font-weight: 500;
+  font-size: 16px;
   color: var(--Cobalt-blue);
-  font-weight: 600;
 }
 .card__buttons:nth-child(1) {
   background-color: var(--Light-red-alfa);
